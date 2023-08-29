@@ -8,3 +8,4 @@ Para rodar esse projeto será necessário instalar e configurar alguns pacotes c
 pip install django
 ```
 
+:)
