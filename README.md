@@ -4,7 +4,7 @@
 
 Para rodar esse projeto será necessário instalar e configurar alguns pacotes como:
 
-'''
+```
 pip install django
-'''
+```
 
